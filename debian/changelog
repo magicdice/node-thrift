@@ -1,3 +1,16 @@
+nodejs-thrift (0.6.0-1sg24) UNRELEASED; urgency=low
+
+  [ Wade Simmons ]
+  * fix up how errors are emitted (to make sure we don't emit to no
+    listeners when there are other listeners on the connection)
+  * Encode strings as UTF-8. Strings should be encoded as UTF-8
+    according to this Thrift discussion:
+    https://issues.apache.org/jira/browse/THRIFT-863
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Mon, 28 Feb 2011 18:56:01 +0000
+
 nodejs-thrift (0.6.0-1sg23) UNRELEASED; urgency=low
 
   * UNRELEASED
