@@ -1,3 +1,15 @@
+nodejs-thrift (0.6.0-1sg25) UNRELEASED; urgency=low
+
+  [ Wade Simmons ]
+  * Encode strings as UTF-8. Strings should be encoded as UTF-8
+    according to this Thrift discussion:
+    https://issues.apache.org/jira/browse/THRIFT-414
+  * add a nice representation of Int64 for util.inspect
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Sun, 27 Mar 2011 23:29:02 +0000
+
 nodejs-thrift (0.6.0-1sg24) UNRELEASED; urgency=low
 
   [ Wade Simmons ]
