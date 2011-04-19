@@ -1,3 +1,13 @@
+nodejs-thrift (0.6.0-1sg28) UNRELEASED; urgency=low
+
+  [ Wade Simmons ]
+  * fix Int64 constructor to work if called without new
+  * add readBinary / writeBinary methods
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Tue, 19 Apr 2011 18:06:53 +0000
+
 nodejs-thrift (0.6.0-1sg27) UNRELEASED; urgency=low
 
   * UNRELEASED
