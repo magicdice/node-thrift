@@ -1,3 +1,12 @@
+nodejs-thrift (0.6.0-1sg32) UNRELEASED; urgency=low
+
+  [ Wade Simmons ]
+  * fix Int64 require
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Fri, 17 Jun 2011 18:51:40 +0000
+
 nodejs-thrift (0.6.0-1sg31) UNRELEASED; urgency=low
 
   [ Wade Simmons ]
