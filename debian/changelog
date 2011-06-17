@@ -1,3 +1,15 @@
+nodejs-thrift (0.6.0-1sg31) UNRELEASED; urgency=low
+
+  [ Wade Simmons ]
+  * document Int64
+  * add anchor for int64
+  * use the npm version of node-int64
+  * use nodejs-pkg-tools
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Fri, 17 Jun 2011 18:31:41 +0000
+
 nodejs-thrift (0.6.0-1sg30) UNRELEASED; urgency=low
 
   [ Wade Simmons ]
