@@ -1,3 +1,15 @@
+nodejs-thrift (0.6.0-1sg33) UNRELEASED; urgency=low
+
+  [ Wade Simmons ]
+  * Revert "fix Int64 require" This reverts commit
+    f5ee6a505b420bf1397ed40c0e67ff793b637b0a.
+  * Revert "use the npm version of node-int64" This reverts commit
+    7676779c375b503dcd3c3e1351ee54ac35ad9124.
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Mon, 20 Jun 2011 22:17:40 +0000
+
 nodejs-thrift (0.6.0-1sg32) UNRELEASED; urgency=low
 
   [ Wade Simmons ]
